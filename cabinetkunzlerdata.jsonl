@@ -66,32 +66,6 @@
           "phone": "021 551 84 87",
           "email": "infoATcabinetkunzler.ch"
         },
-        "horaires": {
-          "title": "Horaires",
-          "schedule": [
-            {
-              "day": "Lu",
-              "time": "9h-19h"
-            },
-            {
-              "day": "Ma",
-              "time": "9h-12h"
-            },
-            {
-              "day": "Me",
-              "time": "9h-18h"
-            },
-            {
-              "day": "Je",
-              "time": "15h-18h"
-            },
-            {
-              "day": "Ve",
-              "time": "9h-18h"
-            }
-          ],
-          "note": "Sur rendez-vous!"
-        }
       }
     },
     {
@@ -281,32 +255,6 @@
           "phone": "021 551 84 87",
           "email": "infoATcabinetkunzler.ch"
         },
-        "horaires": {
-          "title": "Horaires",
-          "schedule": [
-            {
-              "day": "Lu",
-              "time": "9h-19h"
-            },
-            {
-              "day": "Ma",
-              "time": "9h-12h"
-            },
-            {
-              "day": "Me",
-              "time": "9h-18h"
-            },
-            {
-              "day": "Je",
-              "time": "15h-18h"
-            },
-            {
-              "day": "Ve",
-              "time": "9h-18h"
-            }
-          ],
-          "note": "Sur rendez-vous!"
-        }
       }
     },
     {
@@ -347,32 +295,6 @@
           "phone": "021 551 84 87",
           "email": "infoATcabinetkunzler.ch"
         },
-        "horaires": {
-          "title": "Horaires :",
-          "schedule": [
-            {
-              "day": "Lu",
-              "time": "9h-19h"
-            },
-            {
-              "day": "Ma",
-              "time": "9h-12h"
-            },
-            {
-              "day": "Me",
-              "time": "9h-18h"
-            },
-            {
-              "day": "Je",
-              "time": "15h-18h"
-            },
-            {
-              "day": "Ve",
-              "time": "9h-18h"
-            }
-          ],
-          "note": "Sur rendez-vous!"
-        }
       }
     },
     {

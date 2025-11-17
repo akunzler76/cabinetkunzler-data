@@ -437,11 +437,11 @@
           "schedule": [
             {
               "day": "Lu",
-              "time": "9h-19h"
+              "time": "9h-18h"
             },
             {
               "day": "Ma",
-              "time": "9h-12h"
+              "time": "9h-18h"
             },
             {
               "day": "Me",
@@ -449,11 +449,11 @@
             },
             {
               "day": "Je",
-              "time": "15h-18h"
+              "time": "9h-18h"
             },
             {
               "day": "Ve",
-              "time": "9h-18h"
+              "time": "closed"
             }
           ],
           "note": "Sur rendez-vous!"

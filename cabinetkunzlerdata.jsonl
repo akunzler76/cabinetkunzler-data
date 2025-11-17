@@ -19,5 +19,10 @@
       "encoding": "utf-8",
       "format": "jsonl"
     }
+     {
+      "path": "data/cabinet_kunzler_QA_fr-CH.jsonl",
+      "encoding": "utf-8",
+      "format": "jsonl"
+    }
   ]
 }
